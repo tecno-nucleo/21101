@@ -1,0 +1,13 @@
+<peliculas>
+  <pelicula>
+    <titulo>Esta película</titulo>
+    <director>Este director</director>
+    <genero>Terror</genero>
+    <estreno>1978</estreno>
+    <actores>
+      <actor>Actor 1</actor>
+      <actor>Actor 1</actor>
+      <actor>Actor 1</actor>
+    </actores>
+  </pelicula>
+</peliculas>
